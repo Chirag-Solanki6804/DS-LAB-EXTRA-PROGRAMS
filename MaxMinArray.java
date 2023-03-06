@@ -25,7 +25,6 @@ public class MaxMinArray {
 			}
 		}
 		System.out.println("Min Element In Array : "+min);
-
 	}
 	
 }
